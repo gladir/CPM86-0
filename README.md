@@ -22,4 +22,8 @@ Voici la liste des différents fichiers proposés dans CPM86-0 :
 			<td><b>ED.PAS</b></td>
 			<td>Cette commande permet de lancer l'éditeur en ligne de commande. Cette commande est un clone de la commande ED du système d'exploitation CP/M-86.</td>
 		</tr>
+		<tr>
+			<td><b>TOD.PAS</b></td>
+			<td>Cette commande permet de fixer la date et l'heure d'affichage dans la ligne d'état du bas de l'affichage. Cette commande est inspiré de la commande <a href="https://www.gladir.com/OS/CPM86/tod.htm">TOD</a> du CP/M-86.</td>
+		</tr>
 </table>
