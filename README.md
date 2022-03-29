@@ -1,5 +1,5 @@
 # CPM86-0
-Clone du CP/M-86 ecrit en langage de programmation Pascal
+Clone du <a href="https://www.gladir.com/OS/CPM86/intro.htm">CP/M-86</a> écrit en langage de programmation Pascal
 
 <h2>Liste des fichiers</h2>
 
