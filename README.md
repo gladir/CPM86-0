@@ -27,3 +27,5 @@ Voici la liste des différents fichiers proposés dans CPM86-0 :
 			<td>Cette commande permet de fixer la date et l'heure d'affichage dans la ligne d'état du bas de l'affichage. Cette commande est inspiré de la commande <a href="https://www.gladir.com/OS/CPM86/tod.htm">TOD</a> du CP/M-86.</td>
 		</tr>
 </table>
+
+NOTE: La commande EXIT a été ajouté au CPM86.PAS afin de permettre de sortir de l'interpréteur de commande CP/M-86, lequel ne prévoyait pas de sortie.
